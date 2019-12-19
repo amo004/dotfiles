@@ -1,0 +1,15 @@
+!! apprearance
+urxvt.termName: rxvt-unicode
+urxvt.scrollBar: false
+urxvt.font: xft:GoMono Nerd Font Mono:size=12
+!urxvt.letterSpace: -1
+urxvt.perl-ext-common: default,font-size
+urxvt.saveLines: 10000000
+urxvt.borderLess: false
+urxvt.internalBorder: 30
+/* urxvt.shading: 5 */ 
+/* urxvt.blurRadius: 10 */
+/* urxvt.transparent: true */
+/* urxvt.shading: 1 */
+/* urxvt.tintColor: black */
+Xft*hinting: full
