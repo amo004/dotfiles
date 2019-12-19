@@ -1,0 +1,15 @@
+# the purpose of this file is to update some ailiases which depend on a string in a text file
+
+alias neofetch="neofetch --gap 10 --cpu_cores physical --cpu_speed off --distro_shorthand on --gpu_type dedicated --w3m $(cat /home/slr/Pictures/bgs/bg.txt) && echo "
+
+# change the saturation of some image in a text file 
+alias chs="wal -q --vte  -i  $(cat /home/slr/Pictures/bgs/bg.txt) --saturate $1"
+
+# undo changes in saturation
+alias rchs="wal -q --vte -i  $(cat /home/slr/Pictures/bgs/bg.txt)" 
+
+# change the background and colorscheme
+alias bgs="/home/slr/Pictures/bgs/set.zsh;source ~/.bgrc"
+
+# update user.js to change colors of firefox based on background
+python3 /home/slr/Public/Scripts/firefox/createUserjs.py /home/slr/.mozilla/firefox/bmx8f7us.default/user.js 0 1 4 5

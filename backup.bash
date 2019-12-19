@@ -5,3 +5,6 @@ pip list > $HOME/.config/dotfiles/pip.inst
 pip3 list > $HOME/.config/dotfiles/pip3.inst
 
 rsync -a $HOME --files-from $HOME/.config/dotfiles/f.txt $HOME/.config/dotfiles
+
+#find . -name '$HOME/config/dotfiles[a-z]*' -exec git add '{}' ';'
+#git add $HOME/.config/dotfiles/*
