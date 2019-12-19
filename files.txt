@@ -1,0 +1,14 @@
+$HOME/.zshrc
+$HOME/.vimrc
+$HOME/.bgrc
+$HOME/.oh-my-zsh/themes/caligula.zsh-theme
+$HOME/.mozilla/firefox/bmx8f7us.default/user.js
+$HOME/.mozilla/firefox/bmx8f7us.default/chrome/userChrome.css
+$HOME/.mozilla/firefox/bmx8f7us.default/chrome/userContent
+$HOME/.startup.py
+$HOME/.Xdefaults
+$HOME/Pictures/bgs/set.zsh
+$HOME/Public/Scripts/firefox/createUserjs.py
+$HOME/Public/Scripts/dmenu/exec_dmenu.bash
+$HOME/config/i3/config
+$HOME/config/polybar/config

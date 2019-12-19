@@ -1,0 +1,15 @@
+.zshrc
+.vimrc
+.bgrc
+.oh-my-zsh/themes/caligula.zsh-theme
+.mozilla/firefox/bmx8f7us.default/user.js
+.mozilla/firefox/bmx8f7us.default/chrome/userChrome.css
+.mozilla/firefox/bmx8f7us.default/chrome/userContent
+.startup.py
+.Xdefaults
+Pictures/bgs/set.zsh
+Public/Scripts/firefox/createUserjs.py
+Public/Scripts/dmenu/exec_dmenu.bash
+.config/i3/config
+.config/polybar/config
+
