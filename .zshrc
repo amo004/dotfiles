@@ -119,6 +119,7 @@ alias gt='gotop -p -a -m  -r 5'
 alias pdfc='pdflatex -halt-on-error'
 alias ss='cmatrix -sab'
 alias search='w3m -v duckduckgo.com'
+alias backup='$HOME/.config/dotfiles/backup.bash'
 alias bright="xrandr --output eDP-1 --brightness"
 
 # Import colorscheme from 'wal' asynchronously
